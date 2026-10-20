@@ -1,0 +1,5 @@
+End-of-day report
+Total deposits: 1010
+Total withdrawals: 2000
+Net: -990
+File: transactions.log size=186 lastModified=2026-10-20T17:48:52.664Z
